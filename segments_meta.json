@@ -1,0 +1,3602 @@
+[
+ {
+  "file": "EMG _001 _01_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 1,
+  "patient": "Hea_001",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _002 _01_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 2,
+  "patient": "Hea_001",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _003 _02_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 3,
+  "patient": "Hea_002",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _004 _02_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 4,
+  "patient": "Hea_002",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _005 _03_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 5,
+  "patient": "Hea_003",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _006 _03_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 6,
+  "patient": "Hea_003",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _007 _04_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 7,
+  "patient": "Hea_004",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _008 _04_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 8,
+  "patient": "Hea_004",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _009 _05_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 9,
+  "patient": "Hea_005",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _010 _05_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 10,
+  "patient": "Hea_005",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _011 _06_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 11,
+  "patient": "Hea_006",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _012 _06_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 12,
+  "patient": "Hea_006",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _013 _07_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 13,
+  "patient": "Hea_007",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _014 _07_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 14,
+  "patient": "Hea_007",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _015 _08_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 15,
+  "patient": "Hea_008",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _016 _08_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 16,
+  "patient": "Hea_008",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _017 _09_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 17,
+  "patient": "Hea_009",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _018 _09_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 18,
+  "patient": "Hea_009",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _019 _10_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 19,
+  "patient": "Hea_010",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _020 _10_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 20,
+  "patient": "Hea_010",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _021 _11_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 21,
+  "patient": "Hea_011",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _022 _11_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 22,
+  "patient": "Hea_011",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _023 _12_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 23,
+  "patient": "Hea_012",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _024 _12_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 24,
+  "patient": "Hea_012",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _025 _13_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 25,
+  "patient": "Hea_013",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _026 _13_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 26,
+  "patient": "Hea_013",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _027 _14_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 27,
+  "patient": "Hea_014",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _028 _14_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 28,
+  "patient": "Hea_014",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _029 _15_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 29,
+  "patient": "Hea_015",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _030 _15_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 30,
+  "patient": "Hea_015",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _031 _16_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 31,
+  "patient": "Hea_016",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _032 _16_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 32,
+  "patient": "Hea_016",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _033 _17_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 33,
+  "patient": "Hea_017",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _034 _17_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 34,
+  "patient": "Hea_017",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _035 _18_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 35,
+  "patient": "Hea_018",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _036 _18_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 36,
+  "patient": "Hea_018",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _037 _19_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 37,
+  "patient": "Hea_019",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _038 _19_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 38,
+  "patient": "Hea_019",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _039 _20_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 39,
+  "patient": "Hea_020",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _040 _20_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 40,
+  "patient": "Hea_020",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _041 _21_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 41,
+  "patient": "Hea_021",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _042 _21_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 42,
+  "patient": "Hea_021",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _043 _22_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 43,
+  "patient": "Hea_022",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _044 _22_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 44,
+  "patient": "Hea_022",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _045 _23_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 45,
+  "patient": "Hea_023",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _046 _23_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 46,
+  "patient": "Hea_023",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _047 _24_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 47,
+  "patient": "Hea_024",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _048 _24_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 48,
+  "patient": "Hea_024",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _049 _25_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 49,
+  "patient": "Hea_025",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _050 _25_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 50,
+  "patient": "Hea_025",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _051 _26_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 51,
+  "patient": "Hea_026",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _052 _26_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 52,
+  "patient": "Hea_026",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _053 _27_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 53,
+  "patient": "Hea_027",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _054 _27_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 54,
+  "patient": "Hea_027",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _055 _28_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 55,
+  "patient": "Hea_028",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _056 _28_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 56,
+  "patient": "Hea_028",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _057 _29_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 57,
+  "patient": "Hea_029",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _058 _29_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 58,
+  "patient": "Hea_029",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _059 _30_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 59,
+  "patient": "Hea_030",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _060 _30_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 60,
+  "patient": "Hea_030",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _061 _31_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 61,
+  "patient": "Hea_031",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _062 _31_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 62,
+  "patient": "Hea_031",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _063 _32_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 63,
+  "patient": "Hea_032",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _064 _32_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 64,
+  "patient": "Hea_032",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _065 _33_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 65,
+  "patient": "Hea_033",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _066 _33_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 66,
+  "patient": "Hea_033",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _067 _34_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 67,
+  "patient": "Hea_034",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _068 _34_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 68,
+  "patient": "Hea_034",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _069 _35_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 69,
+  "patient": "Hea_035",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _070 _35_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 70,
+  "patient": "Hea_035",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _071 _36_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 71,
+  "patient": "Hea_036",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _072 _36_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 72,
+  "patient": "Hea_036",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _073 _37_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 73,
+  "patient": "Hea_037",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _074 _37_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 74,
+  "patient": "Hea_037",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _075 _38_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 75,
+  "patient": "Hea_038",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _076 _38_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 76,
+  "patient": "Hea_038",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _077 _39_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 77,
+  "patient": "Hea_039",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _078 _39_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 78,
+  "patient": "Hea_039",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _079 _40_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 79,
+  "patient": "Hea_040",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _080 _40_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 80,
+  "patient": "Hea_040",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _081 _41_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 81,
+  "patient": "Hea_041",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _082 _41_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 82,
+  "patient": "Hea_041",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _083 _42_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 83,
+  "patient": "Hea_042",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _084 _42_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 84,
+  "patient": "Hea_042",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _085 _43_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 85,
+  "patient": "Hea_043",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _086 _43_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 86,
+  "patient": "Hea_043",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _087 _44_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 87,
+  "patient": "Hea_044",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _088 _44_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 88,
+  "patient": "Hea_044",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _089 _45_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 89,
+  "patient": "Hea_045",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _090 _45_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 90,
+  "patient": "Hea_045",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _091 _46_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 91,
+  "patient": "Hea_046",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _092 _46_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 92,
+  "patient": "Hea_046",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _093 _47_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 93,
+  "patient": "Hea_047",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _094 _47_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 94,
+  "patient": "Hea_047",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _095 _48_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 95,
+  "patient": "Hea_048",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _096 _48_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 96,
+  "patient": "Hea_048",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _097 _49_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 97,
+  "patient": "Hea_049",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _098 _49_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 98,
+  "patient": "Hea_049",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _099 _50_ RD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 99,
+  "patient": "Hea_050",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _100 _50_ LD_Hea.asc",
+  "n_samples": 163840,
+  "rec": 100,
+  "patient": "Hea_050",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _101 _01_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 101,
+  "patient": "Myo_001",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _102 _02_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 102,
+  "patient": "Myo_002",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _103 _03_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 103,
+  "patient": "Myo_003",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _104 _04_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 104,
+  "patient": "Myo_004",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _105 _05_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 105,
+  "patient": "Myo_005",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _106 _06_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 106,
+  "patient": "Myo_006",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _107 _07_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 107,
+  "patient": "Myo_007",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _108 _08_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 108,
+  "patient": "Myo_008",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _109 _08_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 109,
+  "patient": "Myo_008",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _110 _09_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 110,
+  "patient": "Myo_009",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _111 _10_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 111,
+  "patient": "Myo_010",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _112 _11_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 112,
+  "patient": "Myo_011",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _113 _12_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 113,
+  "patient": "Myo_012",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _114 _13_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 114,
+  "patient": "Myo_013",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _115 _14_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 115,
+  "patient": "Myo_014",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _116 _15_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 116,
+  "patient": "Myo_015",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _117 _16_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 117,
+  "patient": "Myo_016",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _118 _17_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 118,
+  "patient": "Myo_017",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _119 _18_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 119,
+  "patient": "Myo_018",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _120 _19_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 120,
+  "patient": "Myo_019",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _121 _20_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 121,
+  "patient": "Myo_020",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _122 _21_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 122,
+  "patient": "Myo_021",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _123 _22_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 123,
+  "patient": "Myo_022",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _124 _23_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 124,
+  "patient": "Myo_023",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _125 _24_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 125,
+  "patient": "Myo_024",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _126 _25_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 126,
+  "patient": "Myo_025",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _127 _26_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 127,
+  "patient": "Myo_026",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _128 _27_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 128,
+  "patient": "Myo_027",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _129 _28_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 129,
+  "patient": "Myo_028",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _130 _29_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 130,
+  "patient": "Myo_029",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _131 _30_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 131,
+  "patient": "Myo_030",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _132 _31_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 132,
+  "patient": "Myo_031",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _133 _32_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 133,
+  "patient": "Myo_032",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _134 _33_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 134,
+  "patient": "Myo_033",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _135 _34_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 135,
+  "patient": "Myo_034",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _136 _35_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 136,
+  "patient": "Myo_035",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _137 _36_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 137,
+  "patient": "Myo_036",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _138 _37_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 138,
+  "patient": "Myo_037",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _139 _38_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 139,
+  "patient": "Myo_038",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _140 _39_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 140,
+  "patient": "Myo_039",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _141 _40_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 141,
+  "patient": "Myo_040",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _142 _41_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 142,
+  "patient": "Myo_041",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _143 _42_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 143,
+  "patient": "Myo_042",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _144 _43_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 144,
+  "patient": "Myo_043",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _145 _44_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 145,
+  "patient": "Myo_044",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _146 _45_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 146,
+  "patient": "Myo_045",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _147 _46_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 147,
+  "patient": "Myo_046",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _148 _47_ LD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 148,
+  "patient": "Myo_047",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _149 _48_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 149,
+  "patient": "Myo_048",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _150 _49_ RD_Myo.asc",
+  "n_samples": 163840,
+  "rec": 150,
+  "patient": "Myo_049",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _151 _01_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 151,
+  "patient": "Neu_001",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _152 _02_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 152,
+  "patient": "Neu_002",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _153 _03_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 153,
+  "patient": "Neu_003",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _154 _04_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 154,
+  "patient": "Neu_004",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _155 _05_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 155,
+  "patient": "Neu_005",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _156 _06_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 156,
+  "patient": "Neu_006",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _157 _07_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 157,
+  "patient": "Neu_007",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _158 _08_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 158,
+  "patient": "Neu_008",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _159 _09_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 159,
+  "patient": "Neu_009",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _160 _10_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 160,
+  "patient": "Neu_010",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _161 _11_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 161,
+  "patient": "Neu_011",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _162 _12_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 162,
+  "patient": "Neu_012",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _163 _13_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 163,
+  "patient": "Neu_013",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _164 _13_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 164,
+  "patient": "Neu_013",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _165 _14_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 165,
+  "patient": "Neu_014",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _166 _15_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 166,
+  "patient": "Neu_015",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _167 _16_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 167,
+  "patient": "Neu_016",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _168 _16_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 168,
+  "patient": "Neu_016",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _169 _17_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 169,
+  "patient": "Neu_017",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _170 _18_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 170,
+  "patient": "Neu_018",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _171 _19_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 171,
+  "patient": "Neu_019",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _172 _20_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 172,
+  "patient": "Neu_020",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _173 _20_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 173,
+  "patient": "Neu_020",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _174 _21_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 174,
+  "patient": "Neu_021",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _175 _22_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 175,
+  "patient": "Neu_022",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _176 _23_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 176,
+  "patient": "Neu_023",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _177 _24_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 177,
+  "patient": "Neu_024",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _178 _25_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 178,
+  "patient": "Neu_025",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _179 _26_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 179,
+  "patient": "Neu_026",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _180 _27_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 180,
+  "patient": "Neu_027",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _181 _28_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 181,
+  "patient": "Neu_028",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _182 _29_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 182,
+  "patient": "Neu_029",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _183 _30_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 183,
+  "patient": "Neu_030",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _184 _31_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 184,
+  "patient": "Neu_031",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _185 _32_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 185,
+  "patient": "Neu_032",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _186 _33_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 186,
+  "patient": "Neu_033",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _187 _34_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 187,
+  "patient": "Neu_034",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _188 _35_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 188,
+  "patient": "Neu_035",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _189 _36_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 189,
+  "patient": "Neu_036",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _190 _37_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 190,
+  "patient": "Neu_037",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _191 _38_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 191,
+  "patient": "Neu_038",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _192 _39_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 192,
+  "patient": "Neu_039",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _193 _40_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 193,
+  "patient": "Neu_040",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _194 _41_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 194,
+  "patient": "Neu_041",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _195 _42_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 195,
+  "patient": "Neu_042",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _196 _43_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 196,
+  "patient": "Neu_043",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _197 _44_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 197,
+  "patient": "Neu_044",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _198 _45_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 198,
+  "patient": "Neu_045",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _199 _46_ RD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 199,
+  "patient": "Neu_046",
+  "side": "R",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _200 _47_ LD_Neu.asc",
+  "n_samples": 163840,
+  "rec": 200,
+  "patient": "Neu_047",
+  "side": "L",
+  "muscle": "D",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _201 _01_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 201,
+  "patient": "Hea_001",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _202 _01_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 202,
+  "patient": "Hea_001",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _203 _02_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 203,
+  "patient": "Hea_002",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _204 _02_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 204,
+  "patient": "Hea_002",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _205 _03_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 205,
+  "patient": "Hea_003",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _206 _03_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 206,
+  "patient": "Hea_003",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _207 _04_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 207,
+  "patient": "Hea_004",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _208 _04_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 208,
+  "patient": "Hea_004",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _209 _05_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 209,
+  "patient": "Hea_005",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _210 _05_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 210,
+  "patient": "Hea_005",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _211 _06_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 211,
+  "patient": "Hea_006",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _212 _06_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 212,
+  "patient": "Hea_006",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _213 _07_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 213,
+  "patient": "Hea_007",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _214 _07_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 214,
+  "patient": "Hea_007",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _215 _08_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 215,
+  "patient": "Hea_008",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _216 _08_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 216,
+  "patient": "Hea_008",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _217 _09_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 217,
+  "patient": "Hea_009",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _218 _09_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 218,
+  "patient": "Hea_009",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _219 _10_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 219,
+  "patient": "Hea_010",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _220 _10_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 220,
+  "patient": "Hea_010",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _221 _11_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 221,
+  "patient": "Hea_011",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _222 _11_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 222,
+  "patient": "Hea_011",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _223 _12_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 223,
+  "patient": "Hea_012",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _224 _12_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 224,
+  "patient": "Hea_012",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _225 _13_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 225,
+  "patient": "Hea_013",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _226 _13_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 226,
+  "patient": "Hea_013",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _227 _14_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 227,
+  "patient": "Hea_014",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _228 _14_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 228,
+  "patient": "Hea_014",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _229 _15_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 229,
+  "patient": "Hea_015",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _230 _15_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 230,
+  "patient": "Hea_015",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _231 _16_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 231,
+  "patient": "Hea_016",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _232 _16_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 232,
+  "patient": "Hea_016",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _233 _17_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 233,
+  "patient": "Hea_017",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _234 _17_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 234,
+  "patient": "Hea_017",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _235 _18_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 235,
+  "patient": "Hea_018",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _236 _18_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 236,
+  "patient": "Hea_018",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _237 _19_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 237,
+  "patient": "Hea_019",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _238 _19_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 238,
+  "patient": "Hea_019",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _239 _20_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 239,
+  "patient": "Hea_020",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _240 _20_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 240,
+  "patient": "Hea_020",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _241 _21_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 241,
+  "patient": "Hea_021",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _242 _21_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 242,
+  "patient": "Hea_021",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _243 _22_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 243,
+  "patient": "Hea_022",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _244 _22_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 244,
+  "patient": "Hea_022",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _245 _23_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 245,
+  "patient": "Hea_023",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _246 _23_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 246,
+  "patient": "Hea_023",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _247 _24_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 247,
+  "patient": "Hea_024",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _248 _24_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 248,
+  "patient": "Hea_024",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _249 _25_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 249,
+  "patient": "Hea_025",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _250 _25_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 250,
+  "patient": "Hea_025",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _251 _26_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 251,
+  "patient": "Hea_026",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _252 _26_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 252,
+  "patient": "Hea_026",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _253 _27_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 253,
+  "patient": "Hea_027",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _254 _27_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 254,
+  "patient": "Hea_027",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _255 _28_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 255,
+  "patient": "Hea_028",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _256 _28_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 256,
+  "patient": "Hea_028",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _257 _29_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 257,
+  "patient": "Hea_029",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _258 _29_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 258,
+  "patient": "Hea_029",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _259 _30_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 259,
+  "patient": "Hea_030",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _260 _30_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 260,
+  "patient": "Hea_030",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _261 _31_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 261,
+  "patient": "Hea_031",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _262 _31_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 262,
+  "patient": "Hea_031",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _263 _32_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 263,
+  "patient": "Hea_032",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _264 _32_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 264,
+  "patient": "Hea_032",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _265 _33_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 265,
+  "patient": "Hea_033",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _266 _33_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 266,
+  "patient": "Hea_033",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _267 _34_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 267,
+  "patient": "Hea_034",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _268 _34_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 268,
+  "patient": "Hea_034",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _269 _35_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 269,
+  "patient": "Hea_035",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _270 _35_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 270,
+  "patient": "Hea_035",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _271 _36_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 271,
+  "patient": "Hea_036",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _272 _36_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 272,
+  "patient": "Hea_036",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _273 _37_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 273,
+  "patient": "Hea_037",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _274 _37_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 274,
+  "patient": "Hea_037",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _275 _38_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 275,
+  "patient": "Hea_038",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _276 _38_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 276,
+  "patient": "Hea_038",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _277 _39_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 277,
+  "patient": "Hea_039",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _278 _39_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 278,
+  "patient": "Hea_039",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _279 _40_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 279,
+  "patient": "Hea_040",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _280 _40_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 280,
+  "patient": "Hea_040",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _281 _41_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 281,
+  "patient": "Hea_041",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _282 _41_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 282,
+  "patient": "Hea_041",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _283 _42_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 283,
+  "patient": "Hea_042",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _284 _42_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 284,
+  "patient": "Hea_042",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _285 _43_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 285,
+  "patient": "Hea_043",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _286 _43_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 286,
+  "patient": "Hea_043",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _287 _44_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 287,
+  "patient": "Hea_044",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _288 _44_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 288,
+  "patient": "Hea_044",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _289 _45_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 289,
+  "patient": "Hea_045",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _290 _45_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 290,
+  "patient": "Hea_045",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _291 _46_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 291,
+  "patient": "Hea_046",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _292 _46_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 292,
+  "patient": "Hea_046",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _293 _47_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 293,
+  "patient": "Hea_047",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _294 _47_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 294,
+  "patient": "Hea_047",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _295 _48_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 295,
+  "patient": "Hea_048",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _296 _48_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 296,
+  "patient": "Hea_048",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _297 _49_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 297,
+  "patient": "Hea_049",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _298 _49_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 298,
+  "patient": "Hea_049",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _299 _50_ RB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 299,
+  "patient": "Hea_050",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _300 _50_ LB_Hea.asc",
+  "n_samples": 163840,
+  "rec": 300,
+  "patient": "Hea_050",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Hea"
+ },
+ {
+  "file": "EMG _301 _50_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 301,
+  "patient": "Myo_050",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _302 _51_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 302,
+  "patient": "Myo_051",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _303 _52_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 303,
+  "patient": "Myo_052",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _304 _53_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 304,
+  "patient": "Myo_053",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _305 _54_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 305,
+  "patient": "Myo_054",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _306 _55_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 306,
+  "patient": "Myo_055",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _307 _56_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 307,
+  "patient": "Myo_056",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _308 _57_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 308,
+  "patient": "Myo_057",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _309 _58_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 309,
+  "patient": "Myo_058",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _310 _59_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 310,
+  "patient": "Myo_059",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _311 _60_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 311,
+  "patient": "Myo_060",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _312 _61_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 312,
+  "patient": "Myo_061",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _313 _62_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 313,
+  "patient": "Myo_062",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _314 _63_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 314,
+  "patient": "Myo_063",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _315 _64_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 315,
+  "patient": "Myo_064",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _316 _65_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 316,
+  "patient": "Myo_065",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _317 _66_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 317,
+  "patient": "Myo_066",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _318 _67_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 318,
+  "patient": "Myo_067",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _319 _68_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 319,
+  "patient": "Myo_068",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _320 _69_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 320,
+  "patient": "Myo_069",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _321 _70_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 321,
+  "patient": "Myo_070",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _322 _71_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 322,
+  "patient": "Myo_071",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _324 _73_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 324,
+  "patient": "Myo_073",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _325 _74_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 325,
+  "patient": "Myo_074",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _326 _75_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 326,
+  "patient": "Myo_075",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _327 _76_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 327,
+  "patient": "Myo_076",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _328 _77_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 328,
+  "patient": "Myo_077",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _329 _78_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 329,
+  "patient": "Myo_078",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _330 _79_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 330,
+  "patient": "Myo_079",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _331 _80_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 331,
+  "patient": "Myo_080",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _334 _83_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 334,
+  "patient": "Myo_083",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _335 _84_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 335,
+  "patient": "Myo_084",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _336 _85_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 336,
+  "patient": "Myo_085",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _337 _86_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 337,
+  "patient": "Myo_086",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _338 _87_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 338,
+  "patient": "Myo_087",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _339 _88_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 339,
+  "patient": "Myo_088",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _340 _89_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 340,
+  "patient": "Myo_089",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _341 _89_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 341,
+  "patient": "Myo_089",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _342 _90_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 342,
+  "patient": "Myo_090",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _343 _91_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 343,
+  "patient": "Myo_091",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _344 _92_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 344,
+  "patient": "Myo_092",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _345 _93_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 345,
+  "patient": "Myo_093",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _346 _94_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 346,
+  "patient": "Myo_094",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _347 _95_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 347,
+  "patient": "Myo_095",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _348 _96_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 348,
+  "patient": "Myo_096",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _349 _97_ RB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 349,
+  "patient": "Myo_097",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _350 _98_ LB_Myo.asc",
+  "n_samples": 163840,
+  "rec": 350,
+  "patient": "Myo_098",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "YY_EMG_20836_2378_GB_3_SMA_Inf_18.18.asc",
+  "n_samples": 163840,
+  "rec": -1,
+  "patient": "Myo_X2378",
+  "side": "?",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "YY_EMG_21936_2470_GB_3_15.asc",
+  "n_samples": 163840,
+  "rec": -1,
+  "patient": "Myo_X2470",
+  "side": "?",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "YY_EMG_33380_3787_DB_3_Ccarp_3.5.asc",
+  "n_samples": 163840,
+  "rec": -1,
+  "patient": "Myo_X3787",
+  "side": "?",
+  "muscle": "B",
+  "cls": "Myo"
+ },
+ {
+  "file": "EMG _351 _48_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 351,
+  "patient": "Neu_048",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _352 _49_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 352,
+  "patient": "Neu_049",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _353 _50_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 353,
+  "patient": "Neu_050",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _354 _51_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 354,
+  "patient": "Neu_051",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _355 _52_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 355,
+  "patient": "Neu_052",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _356 _53_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 356,
+  "patient": "Neu_053",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _357 _53_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 357,
+  "patient": "Neu_053",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _358 _54_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 358,
+  "patient": "Neu_054",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _359 _55_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 359,
+  "patient": "Neu_055",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _360 _56_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 360,
+  "patient": "Neu_056",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _361 _56_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 361,
+  "patient": "Neu_056",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _362 _57_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 362,
+  "patient": "Neu_057",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _363 _58_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 363,
+  "patient": "Neu_058",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _364 _59_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 364,
+  "patient": "Neu_059",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _365 _60_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 365,
+  "patient": "Neu_060",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _366 _61_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 366,
+  "patient": "Neu_061",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _367 _62_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 367,
+  "patient": "Neu_062",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _368 _63_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 368,
+  "patient": "Neu_063",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _369 _64_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 369,
+  "patient": "Neu_064",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _370 _65_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 370,
+  "patient": "Neu_065",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _371 _65_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 371,
+  "patient": "Neu_065",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _372 _66_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 372,
+  "patient": "Neu_066",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _373 _67_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 373,
+  "patient": "Neu_067",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _374 _68_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 374,
+  "patient": "Neu_068",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _375 _69_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 375,
+  "patient": "Neu_069",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _376 _70_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 376,
+  "patient": "Neu_070",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _377 _71_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 377,
+  "patient": "Neu_071",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _378 _72_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 378,
+  "patient": "Neu_072",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _379 _73_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 379,
+  "patient": "Neu_073",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _380 _74_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 380,
+  "patient": "Neu_074",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _381 _11_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 381,
+  "patient": "Neu_011",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _382 _75_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 382,
+  "patient": "Neu_075",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _383 _76_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 383,
+  "patient": "Neu_076",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _384 _77_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 384,
+  "patient": "Neu_077",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _385 _78_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 385,
+  "patient": "Neu_078",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _386 _79_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 386,
+  "patient": "Neu_079",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _387 _80_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 387,
+  "patient": "Neu_080",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _388 _81_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 388,
+  "patient": "Neu_081",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _389 _82_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 389,
+  "patient": "Neu_082",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _390 _83_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 390,
+  "patient": "Neu_083",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _391 _84_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 391,
+  "patient": "Neu_084",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _392 _85_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 392,
+  "patient": "Neu_085",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _393 _86_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 393,
+  "patient": "Neu_086",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _394 _87_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 394,
+  "patient": "Neu_087",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _395 _88_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 395,
+  "patient": "Neu_088",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _396 _89_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 396,
+  "patient": "Neu_089",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _397 _90_ LB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 397,
+  "patient": "Neu_090",
+  "side": "L",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _398 _91_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 398,
+  "patient": "Neu_091",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _399 _92_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 399,
+  "patient": "Neu_092",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ },
+ {
+  "file": "EMG _400 _93_ RB_Neu.asc",
+  "n_samples": 163840,
+  "rec": 400,
+  "patient": "Neu_093",
+  "side": "R",
+  "muscle": "B",
+  "cls": "Neu"
+ }
+]
